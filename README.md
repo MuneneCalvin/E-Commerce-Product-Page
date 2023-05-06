@@ -31,8 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://munenecalvin.github.io/E-Commerce-Product-Page/)
-- Live Site URL: [Add live site URL here](https://munenecalvin.github.io/E-Commerce-Product-Page/)
+- Live Site URL: [E-commerce Page](https://munenecalvin.github.io/E-Commerce-Product-Page/)
 
 
 ### Built with
@@ -66,6 +65,6 @@ const proudOfThisFunc = () => {
 
 ## Author
 
-- Website - [Add your name here](https://calshawn.netlify.app/)
+- Website - [Calvin Shawn](https://calshawn.netlify.app/)
 - your name  - [@Calvin Mwangi](https://github.com/MuneneCalvin)
 
